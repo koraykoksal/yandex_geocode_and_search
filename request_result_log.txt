@@ -1,0 +1,5 @@
+Target location coodinate: [39.726026, 43.618851]
+Target lcoation address: Russia, Moscow, Yuzhniy Administrative Okrug, Donskoy District
+Target location namecode: RU
+
+('*****', 'Destination location inside Moskow Ring Road', '*****')
