@@ -6,7 +6,7 @@ First download the rar file from gitup. For download go to url addres https://gi
 
 You can run the files in the rar file by opening them with the help of the editor.
 
-A visual explanation of the work steps performed has been added to the test task report file.
+<b>A visual explanation of the work steps performed has been added to the test_task_report file.</b>
 
 I hope you will like.
 Best Regards.
