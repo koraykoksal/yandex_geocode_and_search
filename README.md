@@ -1,20 +1,27 @@
 
 I uploaded the project file as rar file.
 <br/>
+
 There are .py and html files in the rar file.
 <br/>
+
 First download the rar file from gitup. For download go to url addres https://github.com/koraykoksal/yandex_geocode_and_search/blob/main/kblog.rar
 <br/>
+
 ![Screenshot_1](https://user-images.githubusercontent.com/88422590/130670136-07e8b4a0-55dd-41a1-9ccb-512fcf602910.png)
 <br/>
+
 You can run the files in the rar file by opening them with the help of the editor.
 <br/>
+
 <b>A visual explanation of the work steps performed has been added to the test_task_report file.</b>
 <br/>
 
-<p>Note : The study was carried out to calculate the distance and location information of the cities in Russia to the moscow ring road.</p>
+<b>Note : The study was carried out to calculate the distance and location information of the cities in Russia to the moscow ring road.</b>
 <br/>
+
 Brief information about the work done ;
+
 <li>I created a working project on Visual Studio for Test Task work and I set the name of the project as kblog. Within the project, I created the python workfile and the html pages for the flask.
 </li>
 <li>I made app.route definitions for html pages and made page redirects.</li>
@@ -37,5 +44,6 @@ Brief information about the work done ;
 
 <br/>
 I hope you will like.
+
 <br/>
 Best Regards.
