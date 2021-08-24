@@ -20,7 +20,7 @@ You can run the files in the rar file by opening them with the help of the edito
 <b>Note : The study was carried out to calculate the distance and location information of the cities in Russia to the moscow ring road.</b>
 <br/>
 
-<p><u>Brief information about the work done</u></p>
+<b>Brief information about the work done ;</b>
 
 <li>I created a working project on Visual Studio for Test Task work and I set the name of the project as kblog. Within the project, I created the python workfile and the html pages for the flask.
 </li>
