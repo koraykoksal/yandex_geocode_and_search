@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% include "includes/message.html" %}   <!--- after register show flash message --->
+
+{% block body %}
+
+    {% from "includes/formhelpers.html" import render_field %}
+    <h3>Welcome to Register Page</h3>
+    <hr>
+
+    <form method = "post">
+
+    <div class='col-md-8'>
+    
+        {{ render_field(form.name, placeholder='Name', class='form-control') }}
+        {{ render_field(form.username, placeholder='Username',class='form-control') }}
+        {{ render_field(form.email,placeholder='Email',class='form-control') }}
+        {{ render_field(form.password,placeholder='Password',class='form-control') }}
+        {{ render_field(form.confirm,placeholder='Confirm',class='form-control') }}
+        <br>
+        <button type="submit" class="btn btn-primary">Register</button>   <!--- if button click it's will request and for that button type should be 'submit'--->
+    
+    </div>
+        
+
+
+    </form>
+
+{% endblock body %}
+

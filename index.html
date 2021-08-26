@@ -1,0 +1,38 @@
+<!-- extends işlemi için Django Template özelliğinin yüklenmesi gerekir. --->
+
+
+<!--- layout.html sayfasından miras alınır--->
+{% extends "layout.html" %}    
+
+
+{% block body %}
+
+    <h3>Hello, before begin read me</h3>
+    <hr>
+
+    <div class='col-md-12'>
+    
+    <p><b>Process Steps</b></p>
+
+    <li>Enter a string value in the destination location field from the python.py page. The entered value can be coordinate information or name.</li>
+    <li>You can see target location coordinate, address and namecode.</li>
+    <li>You can see the distance between two locations.</li>
+    <li>It is checked whether the destination address is on the moscow ring road.</li>
+    <li>The search results are recorded in the request_result_log.txt file in the kblog.</li>
+    <li><b>Please enter the target location name or coordinates correctly to get the correct result.</b></li>
+    <br/>
+
+    <p>Switch to the <b>Search</b> page to see the results.</p>
+
+    
+    </div>
+
+
+
+
+
+
+{% endblock body %}
+
+
+
